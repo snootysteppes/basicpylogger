@@ -1,2 +1,2 @@
 # basicpylogger
-python keylogge
+python keylogger
